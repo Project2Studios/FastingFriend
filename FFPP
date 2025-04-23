@@ -1,0 +1,55 @@
+# Fasting Buddy Privacy Policy
+
+**Last Updated:** 3/23/25
+
+## Introduction
+
+Welcome to Fasting Buddy. We respect your privacy and are committed to protecting it. This Privacy Policy explains our practices regarding data collected through our mobile application.
+
+## Data Collection and Usage
+
+**Fasting Buddy does not collect, store, or transmit any personal data outside of your device.**
+
+All data, including your name, weight, fasting sessions, water intake logs, and preferences are stored locally on your device using SwiftData and UserDefaults. This information never leaves your device and is not accessible to us or any third parties.
+
+## Local Data Storage
+
+The following information is stored locally on your device:
+- Name and basic profile information
+- Weight tracking
+- Fasting history and progress
+- Water and electrolyte intake
+- Reminder preferences
+- Feeling logs
+
+This data is used solely to provide the functionality of the app and is not transmitted externally.
+
+## Notifications
+
+If you grant notification permissions, Fasting Buddy will send local notifications to your device for reminders about water intake, electrolytes, and fasting milestones. These notifications are processed entirely on your device and no notification data is collected or transmitted.
+
+## Analytics and Third-Party Services
+
+Fasting Buddy does not integrate any analytics tools, advertising frameworks, or third-party services that collect user data.
+
+## Data Security
+
+Since all data remains on your device, security of your information is maintained by your device's built-in security features. We recommend keeping your device updated with the latest operating system to ensure optimal security.
+
+## Children's Privacy
+
+Our app does not knowingly collect data from children under 13 years of age.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted within app updates and on our website.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+connor@project2studios.com
+
+---
+
+By using Fasting Buddy, you agree to the terms outlined in this Privacy Policy.
